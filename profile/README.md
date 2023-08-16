@@ -1,5 +1,14 @@
-## Hi there 👋
+# I-Riide App
 
-🙋‍♀️ I-Riide is ~~a new peer~~ **the only one** to-peer delivery platform.
+A brief description of what this project does and who it's for
 
-👩‍💻 check our website to learn more: [i-riide.com](https://wwww.i-riide.com)
+🤯
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
